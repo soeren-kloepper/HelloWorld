@@ -1,3 +1,22 @@
 # Hello World Konsolenprogramm
 
-Initialized by AgentHub for task #1000.
+Eine einfache .NET Hello-World-Konsolenanwendung.
+
+## Voraussetzungen
+
+- [.NET SDK](https://dotnet.microsoft.com/download) (Version 10.0 oder neuer)
+
+## Ausführung
+
+Die Konsolenanwendung kann direkt im Stammverzeichnis gestartet werden:
+
+```bash
+dotnet run
+```
+
+## Erstellen (Build)
+
+```bash
+dotnet build
+```
+
